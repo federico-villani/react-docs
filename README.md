@@ -148,6 +148,7 @@
   - [React Testing Library](https://github.com/testing-library/react-testing-library)
   </details>
   
+- [xState](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react)  
 ## Contributing
 
 If you think i missed something ( surely i did 😬 ) feel free to create an issue or a PR
