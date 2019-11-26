@@ -1,6 +1,5 @@
-# 🔥🔥 REACT 🔥🔥 Docs + Starter Kits + Useful Links
-
-## Docs
+# 🔥🔥 React / Redux 🔥🔥 
+## Docs + Starter Kits + Useful Links
 
 ### Basic
 - <details><summary>React</summary>
