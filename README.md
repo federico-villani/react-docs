@@ -50,8 +50,6 @@
 
 - [css-modules](https://glenmaddern.com/articles/css-modules)
 
-- [React/Redux main concepts collection](https://rangle.github.io/react-training/)
-
 ### Advanced
 - <details><summary>Redux</summary>
 
@@ -67,7 +65,9 @@
   
   - [Introduction to Immutable.js and Functional Programming Concept](https://auth0.com/blog/intro-to-immutable-js/)
   
-  - [Reselectt](https://github.com/reduxjs/reselect)
+  - [Reselect](https://github.com/reduxjs/reselect)
+  
+  - [React/Redux main concepts collection](https://rangle.github.io/react-training/)
   </details>
 
 - [Babel](https://babeljs.io/)
