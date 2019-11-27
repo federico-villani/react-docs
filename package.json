@@ -1,0 +1,43 @@
+{
+  "name": "react-docs",
+  "version": "1.0.0",
+  "description": "A bunch of documents to learn React and Redux best practices and patterns",
+  "author": "Federico Villani",
+  "contributors": [
+    { "name" : "Federico Villani",
+      "email" : "federico.villani@hotmail.com",
+      "url" : "https://github.com/federico-villani"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/federico-villani/react-docs.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/federico-villani/react-docs/issues",
+    "email" : "federico.villani@hotmail.com"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-redux",
+    "react-hooks",
+    "redux",
+    "redux-saga",
+    "redux-middleware",
+    "styled-components",
+    "ssr",
+    "storybook",
+    "starter-kit",
+    "documentation",
+    "docs",
+    "jsx",
+    "nextjs",
+    "testing",
+    "customize-cra",
+    "react-app",
+    "react-app-rewired"
+  ],
+  "dependencies": {}
+}
