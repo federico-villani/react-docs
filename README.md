@@ -23,6 +23,8 @@
   - [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
   
   - [Hooks Recipes](https://github.com/gragland/usehooks)
+  
+  - [React CHEATSHEET](https://devhints.io/react)
   </details>
 
 - <details><summary>Styled Components</summary>
