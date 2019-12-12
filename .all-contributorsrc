@@ -12,5 +12,15 @@
     }
   },
   "skipCi": "true",
-  "contributors": []
+  "contributors": [
+      {
+      "login": "federico-villani",
+      "name": "Federico Villani",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14273389?s=460&v=4",
+      "profile": "",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }]
 }
