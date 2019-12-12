@@ -100,6 +100,7 @@
 
 
 - <details><summary>Typescript</summary>
+  
   - [React - Typescript | cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
   
   - [React - Redux - Typescript | guide](https://github.com/piotrwitek/react-redux-typescript-guide)
