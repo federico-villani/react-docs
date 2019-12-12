@@ -79,6 +79,8 @@
 
 - [Immutable.js](https://facebook.github.io/immutable-js/)
 
+- [Immer](https://github.com/immerjs/immer)
+
 - [ESLINT](https://eslint.org/) + AirBnB rules + Custom rules
 
 - [Prop Types](https://www.npmjs.com/package/prop-types)
