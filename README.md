@@ -98,7 +98,13 @@
 
 - [Universal rendering - SSR](https://github.com/brillout/awesome-universal-rendering)
 
-- [React - Typescript cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet?fbclid=IwAR1OHnqDaghBIfRTwd9X3n574vLkXKCT5qijXL53B_cNT43JX953DMmeA2Y)
+
+- <details><summary>Typescript</summary>
+  - [React - Typescript cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet?fbclid=IwAR1OHnqDaghBIfRTwd9X3n574vLkXKCT5qijXL53B_cNT43JX953DMmeA2Y)
+  
+  - [https://github.com/piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  </details>
+
 
 ### Dev Tools
 
